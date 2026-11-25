@@ -1,0 +1,6 @@
+{
+  "name": "小四人文科 4A · 樂高人闖關自學教具",
+  "description": "配合小四人文科上學期教學範圍、習作及模擬試卷的樂高人闖關自學遊戲，透過選擇題、填充題、是非題及看圖題收集武器挑戰終極大怪獸。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
